@@ -1,4 +1,4 @@
-This is YoloFromScratch 
+##This is YoloFromScratch 
 
 Get yourself a dataset and in train.py in <b> IMG_DIR = put your dataset path 
 
